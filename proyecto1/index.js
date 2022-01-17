@@ -1,6 +1,6 @@
 //Funciones por separado
 
-let suma = (op1, op2) => {console.log(op1 + op2)};
+
 let resta = (op1, op2) => {console.log(op1 - op2)};
 let multiplicacion = (op1, op2) => {console.log(op1 * op2)};
 let division = (op1, op2) => {console.log(op1 / op2)};
